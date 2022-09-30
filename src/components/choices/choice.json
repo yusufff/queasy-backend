@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_choices_choices",
+  "info": {
+    "displayName": "Choice",
+    "icon": "dot-circle"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    },
+    "media": {
+      "allowedTypes": [
+        "images",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "isAnswer": {
+      "type": "boolean"
+    }
+  }
+}
